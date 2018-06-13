@@ -1,7 +1,7 @@
 # Welcome to the Team 4 Stars & Stripes repository!
 ENGR101 Autonomous Vehicle Challenge Project 2018
 
-![Team 4 Stars & Stripes Flag](https://github.com/dolfinn1212/starsandstripes/blob/master/Other%20files/Team4StarsAndTtripesFlag.png)
+![Team 4 Stars & Stripes Flag](https://github.com/tomcpc/starsandstripes/blob/master/Other%20files/Team4StarsAndTtripesFlag.png)
 
 Team Members:
 * Charlotte
@@ -13,7 +13,7 @@ Team Members:
 
 Our project is organized according to the schedule bellow:
 
-[![Project Schedule](https://github.com/dolfinn1212/starsandstripes/blob/master/Other%20files/ProjectSchedule.png)](https://raw.githubusercontent.com/dolfinn1212/starsandstripes/master/Other%20files/ProjectSchedule.png)
+[![Project Schedule](https://github.com/dolfinn1212/starsandstripes/blob/master/Other%20files/ProjectSchedule.PNG)](https://raw.githubusercontent.com/dolfinn1212/starsandstripes/master/Other%20files/ProjectSchedule.PNG)
 
 **Week 1**
 - Everyone was present to the first lab session of the project.
@@ -34,3 +34,25 @@ Our project is organized according to the schedule bellow:
 - The team started working on the progress report.
 - The deadline to have the code for the 3rd quadrant ready was postponed to the next week.
 - Everyone except Tom was present to the third lab session of the project.
+
+**Week 4**
+- Charlotte and Tom finished publishing the data that was required for each one to write their own progress report.
+- Tom published the code for quadrant 3 and started debugging it.
+- The robot completed the quadrant 3 in 80% of the tests—the code still has bugs.
+- Thomas wrote a code to test the measures made by the sensors.
+- Charlotte fixed a problem with the right sensor and changed the position of the camera—it was too low before.
+- Matthew and Tom started working on the code for quadrant 4.
+- Everyone was present to the fourth lab session of the project.
+
+**Week 5**
+- Charlotte placed a switch on the robot and reassembled it to improve its design.
+- Riley tested the code that opens the first gate and it works.
+- The code for quadrant 3 still has bugs, but since it completes the course most of the times and the deadline is too close, we decided to leave it as it is to focus on quadrant 4.
+- Tom published different algorithms to deal with the quadrant 4.
+- Finn, Matthew and Tom started testing the different algorithms for Q4.
+- Issue with gate not being properly detected on Q4 left unresolved.
+- Robot scored 98% on the demonstration run and 97% on the hardware design.
+- Robot failed once on the Q4 U-turn (something that didn't happen in tests) and advanced towards the gate too early (a problem was expected).
+
+**Week 6**
+- Group worked on the final report.
